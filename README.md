@@ -3,27 +3,27 @@
 <b>Discipline | <b>Computer Science & Engineering 
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving
-<b> Experiment|     <b> 1. (3) WAP to calculate the area and circumference of a circle.
+<b> Experiment|     <b> 1. WAP to calculate the area and circumference of a circle.
 
 <h5> About the Lab (Objective) : </h5>
 
-The Practical of this lab is to calculate the area and circumference of a circle by providing radius.
+The Practical course of this lab is completely focused on understanding the basic concept of C programming language which enriches the programming thoughts of a student.
 
 <h5> About the Experiment : </h5>
 
-In this experiment we calculate are and circumference of a circle by providing radius.
+Students beginning geometry can expect to encounter problem sets that involve calculating the area and circumference of a circle. You can solve these problems as long as you know the circle's radius and can do some simple multiplication. If you learn the value of the constant π and the basic equations for a circle's properties, you can quickly find the area or circumference of any circle.
 
 <h5> Target Audience : </h5>
 
-B. Tech (CSE & IT) Students   
+B. Tech (CSE & IT) Students and Faculty  
 
 <h5> Course Alignment : </h5>
 
-B. Tech  
+B. Tech students for 1st year 
 
 <h5> Universities Mapped : </h5>
 
-AKTU
+AKTU,  Lucknow
 
 <b>Name of Developer | <b> Manish Kumar Gupta
 :--|:--|
