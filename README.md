@@ -11,7 +11,7 @@ The Practical course of this lab is completely focused on understanding the basi
 
 <h5> About the Experiment : </h5>
 
-Students beginning geometry can expect to encounter problem sets that involve calculating the area and circumference of a circle. You can solve these problems as long as you know the circle's radius and can do some simple multiplication. If you learn the value of the constant π and the basic equations for a circle's properties, you can quickly find the area or circumference of any circle.
+Students calculating the area and circumference of a circle. You can solve these problems as long as you know the circle's radius. If you learn the value of the constant π and the basic equations for a circle's properties, you can quickly find the area or circumference of any circle.
 
 <h5> Target Audience : </h5>
 
