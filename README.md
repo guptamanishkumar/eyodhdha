@@ -19,7 +19,7 @@ B. Tech (CSE & IT) Students and Faculty
 
 <h5> Course Alignment : </h5>
 
-B. Tech students for 1st year 
+B. Tech  
 
 <h5> Universities Mapped : </h5>
 
