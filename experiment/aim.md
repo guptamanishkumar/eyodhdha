@@ -1,0 +1,1 @@
+To understand the basic concept of C programming and how to calculate area and circumference of a circle.
