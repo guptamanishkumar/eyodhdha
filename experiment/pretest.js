@@ -90,27 +90,49 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "C program compilation start from main function.",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False"                  ///// Write the option 2 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "A C program can have more than one main function.",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False"                  ///// Write the option 2 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+    },
+    
+    {
+      question: "To calculate the area of a circle, we need to multiply radius two times.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
+
+    {
+      question: "Circumference means distance around the edge of a circle.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
+
+    {
+      question: "Circumference is a type of perimeter.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "a"
+    },
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )

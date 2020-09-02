@@ -90,28 +90,49 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Find the area of following circle. Use π = 3.14",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "132.67 square units",                  ///// Write the option 1 inside double quotes
+        b: "314 square units",                  ///// Write the option 2 inside double quotes
+        c: "200.96 square units",                  ///// Write the option 3 inside double quotes
+        d: " 706.5 square units"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },
+
+    {
+      question: "All keywords in C are in ____________",  ///// Write the question inside double quotes
+      answers: {
+        a: "LowerCase letters",                  ///// Write the option 1 inside double quotes
+        b: "UpperCase letters",                  ///// Write the option 2 inside double quotes
+        c: "CamelCase letters",                  ///// Write the option 3 inside double quotes
+        d: "None of the mentioned"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Which of the following is not a valid C variable name?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "int number;",                  ///// Write the option 1 inside double quotes
+        b: "float rate;",                  ///// Write the option 2 inside double quotes
+        c: "int variable_count;",                  ///// Write the option 3 inside double quotes
+        d: "int $main;"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    }, 
+
+    {
+      question: "Which of the following is not a valid variable name declaration?",  ///// Write the question inside double quotes
+      answers: {
+        a: "int __a3;",                  ///// Write the option 1 inside double quotes
+        b: "int __3a;",                  ///// Write the option 2 inside double quotes
+        c: "int __A3;",                  ///// Write the option 3 inside double quotes
+        d: "None of the mentioned"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
