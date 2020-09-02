@@ -1,1 +1,1 @@
-WAP to calculate the area and circumference of a circle.
+Write a program to calculate the area and circumference of a circle.
