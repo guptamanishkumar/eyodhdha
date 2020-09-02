@@ -7,7 +7,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-The Practical course of this lab is completely focused on understanding the basic concept of C programming language which enriches the programming thoughts of a student.
+Write a program to calculate area and circumference if a circle. The Practical course of this lab is completely focused on understanding the basic concept of C programming language which enriches the programming thoughts of a student.
 
 <h5> About the Experiment : </h5>
 
