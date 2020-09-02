@@ -1,4 +1,4 @@
-<h2>a) For area of a circle<h2>
+<h2>a) For area of a circle</h2>
 Step 1:Start
 Step 2:Read radius of circle
 Step 3:Calculate area using formula, area= 3.14 * r * r
