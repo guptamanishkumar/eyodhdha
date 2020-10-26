@@ -11,10 +11,10 @@ And to calculate circumference of a circle formula is  2 * 3.14 *r
 ### Procedure
 a) For area of a circle
 <bl>Step 1:Start
-Step 2:Readradius of circle
-Step 3:Calculatearea using formula, area= 3.14 * r * r
-Step 4:Printarea
-Step 5:Stop
+<bl>Step 2:Readradius of circle
+<bl>Step 3:Calculatearea using formula, area= 3.14 * r * r
+<bl>Step 4:Printarea
+<bl>Step 5:Stop
 b) For circumference of a circle
 Step 1:Start
 Step 2:Read radius of circle
