@@ -15,64 +15,68 @@ a) For area of a circle
 <br>Step 3:Calculatearea using formula, area= 3.14 * r * r
 <br>Step 4:Printarea
 <br>Step 5:Stop
-b) For circumference of a circle
-Step 1:Start
-Step 2:Read radius of circle
-Step 3:Calculate circumference of a circle using formula, circumference =   2* 3.14 * r 
-Step 4:Printcircumference.
-Step 5:Stop
+<br>b) For circumference of a circle
+<br>Step 1:Start
+<br>Step 2:Read radius of circle
+<br>Step 3:Calculate circumference of a circle using formula, circumference =   2* 3.14 * r 
+<br>Step 4:Printcircumference.
+<br>Step 5:Stop
 
 ### Pre Test
-Q1. C program compilation start from main function.
-•	True
-•	FalseAns:- True
-Q2. A C program can have more than one main function.
-•	True
-•	FalseAns :- False
-Q3. To calculate the area of a circle, we need to multiply radius two times.
-•	True
-•	FalseAns :- True
-Q4. Circumference means distance around the edge of a circle.
-•	True
-•	FalseAns :- True
-Q5. Circumference is a type of perimeter.
-•	True
-•	FalseAns :- True
+<br>Q1. C program compilation start from main function.
+<br>•	True
+<br>•	False
+<br>Ans:- True
+<br>Q2. A C program can have more than one main function.
+<br>•	True
+<br>•	FalseAns :- False
+<br>Q3. To calculate the area of a circle, we need to multiply radius two times.
+<br>•	True
+<br>•	False
+<br>Ans :- True
+<br>Q4. Circumference means distance around the edge of a circle.
+<br>•	True
+<br>•	False
+<br>Ans :- True
+<br>Q5. Circumference is a type of perimeter.
+<br>•	True
+<br>•	False
+<br>Ans :- True
 
 ### Post Test
 
-1 - Find the area of a circle which diameter is 16. Use π = 3.14
+<br>1 - Find the area of a circle which diameter is 16. Use π = 3.14
  
-A - 132.67 square units
-B - 314 square units
-C - 200.96 square units
-D - 706.5 square units
-Ans C
+<br>A - 132.67 square units
+<br>B - 314 square units
+<br>C - 200.96 square units
+<br>D - 706.5 square units
+<br>Ans C
 
-2. All keywords in C are in ____________
-a) LowerCase letters
-b) UpperCase letters
-c) CamelCase letters
-d) None of the mentioned
-Ans : a
+<br>2. All keywords in C are in ____________
+<br>a) LowerCase letters
+<br>b) UpperCase letters
+<br>c) CamelCase letters
+<br>d) None of the mentioned
+<br>Ans : a
 
-3. Which of the following is not a valid C variable name?
-a) int number;
-b) float rate;
-c) intvariable_count;
-d) int $main;
-Ans:- d
+<br>3. Which of the following is not a valid C variable name?
+<br>a) int number;
+<br>b) float rate;
+<br>c) intvariable_count;
+<br>d) int $main;
+<br>Ans:- d
 
-4.  Which of the following is not a valid variable name declaration?
-a) int __a3;
-b) int __3a;
-c) int __A3;
-d) None of the mentioned
-Ans:- d
+<br>4.  Which of the following is not a valid variable name declaration?
+<br>a) int __a3;
+<br>b) int __3a;
+<br>c) int __A3;
+<br>d) None of the mentioned
+<br>Ans:- d
 
 
 ### References
 
-https://www.mathsisfun.com/definitions/circumference.html
-https://www.tutorialspoint.com/circumference_and_area_of_circles/area_of_circle_online_quiz.htm
-https://www.sanfoundry.com/c-programming-questions-answers-variable-names-1/
+<br>https://www.mathsisfun.com/definitions/circumference.html
+<br>https://www.tutorialspoint.com/circumference_and_area_of_circles/area_of_circle_online_quiz.htm
+<br>https://www.sanfoundry.com/c-programming-questions-answers-variable-names-1/
